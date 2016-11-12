@@ -1,0 +1,23 @@
+{
+  "name": "sinon-es",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Exports `sinon` as ES6 module",
+  "author": {
+    "name": "Ryan Megidov",
+    "email": "ryan@megidov.com"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "sinon",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nightwolfz/sinon-es.git"
+  },
+  "dependencies": {
+    "sinon": "*"
+  }
+}
